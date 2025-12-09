@@ -10,4 +10,5 @@ https://github.com/sainnhe/everforest
 <img width="617" height="733" alt="AppleAscii" src="https://github.com/user-attachments/assets/63c925a1-dddc-4e42-8a75-037c147c61cc" />
 
 Everforest for Firefox:
+
 https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/
