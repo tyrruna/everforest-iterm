@@ -5,8 +5,6 @@ https://iterm2.com/
 
 https://github.com/sainnhe/everforest
 
-Everforest for Firefox:
-
 https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/
 
 <img width="544" height="170" alt="EverforestColors" src="https://github.com/user-attachments/assets/7be2d954-f5b3-45ed-820e-b7d3bb85b215" />
