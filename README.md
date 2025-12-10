@@ -1,4 +1,4 @@
-# Everforest iTerm 🌲
+# Everforest iTerm 🌲🌳🦌
 A better Everforest for the command-line.
 
 https://iterm2.com/
