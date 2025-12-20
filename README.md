@@ -1,11 +1,11 @@
 # Everforest iTerm 🌲
 A better Everforest for the command-line.
 
-iTerm: https://iterm2.com/
+[iTerm for macOS](https://iterm2.com/)
 
 [Everforest color scheme](https://github.com/sainnhe/everforest)
 
-Everforest for Firefox: https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/
+[Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)
 
 <img width="261" height="86" alt="EverforestColors" src="https://github.com/user-attachments/assets/4ad782e1-7334-403c-bed9-73e7d3846118" />
 
