@@ -1,7 +1,7 @@
 # Everforest iTerm 🌲
 A better Everforest for the command-line.
 
-Iterm:
+iTerm:
 
 https://iterm2.com/
 
