@@ -1,7 +1,7 @@
 # Everforest iTerm 🌲
 A better Everforest for the command-line.
 
-[iTerm for macOS](https://iterm2.com/)
+[iTerm2 for macOS](https://iterm2.com/)
 
 [Everforest color scheme](https://github.com/sainnhe/everforest)
 
