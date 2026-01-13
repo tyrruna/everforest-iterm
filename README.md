@@ -7,7 +7,7 @@ A better Everforest for the command-line.
 
 * [Everforest website](https://everforest.vercel.app/)
 
-* [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)
+* [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)<br>
 
 *Everforest.itermcolors (with alternative colors for bold text)*<br>
 
