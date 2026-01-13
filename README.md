@@ -1,5 +1,5 @@
 # Everforest iTerm 🌲
-A better Everforest for the command-line.
+The Everforest Dark Hard color scheme for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
